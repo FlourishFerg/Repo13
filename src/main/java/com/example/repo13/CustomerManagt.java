@@ -10,7 +10,7 @@ public class CustomerManagt {
         NEW, CONTACTED, QUALIFIED, LOST, WON
     }
 
-    // Class representing a customer
+    // Class representing a customerr
     class Customer {
         private String customerId;
         private String name;
