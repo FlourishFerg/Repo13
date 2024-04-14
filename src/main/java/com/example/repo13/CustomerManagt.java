@@ -2,7 +2,7 @@ package com.example.repo13;
 
 import java.util.Map;
 
-public class CustomerManagt {{}
+public class CustomerManagt {
 
 
     // Enum for lead status
